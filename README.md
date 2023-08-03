@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16653
-Fork on GitHub
-4704
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Yusuf Emre OZDEN</h1>
 <h3 align="center">A passionate computer engineering student from Turkey</h3>
 
@@ -33,28 +17,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufemreozden&show_icons=true&locale=en" alt="yusufemreozden" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufemreozden&" alt="yusufemreozden" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
