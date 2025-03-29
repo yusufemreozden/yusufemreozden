@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/yusufemreozden" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emreo@hey.com" target="_blank">
+  <a href="mailto:info@yusufemreozden.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-emreo@hey.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/yusufemreozden" target="_blank">
