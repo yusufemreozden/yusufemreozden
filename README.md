@@ -15,6 +15,10 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=yusufemreozden&color=blue&style=flat)
+
+---
+
 ### 🧭 Who Am I?
 
 - 🎓 Business Administration student @ **Istanbul University (English)**
