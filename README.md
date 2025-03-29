@@ -53,10 +53,10 @@
 
 ### 🧠 Projects That Matter
 
-- 📊 [**Forecast & Optimize**](https://github.com/yusufemreozden/forecast-optimize): Time series with Prophet + portfolio optimization with CVXPY  
-- 🧪 [**PineScript Toolbox**](https://github.com/yusufemreozden/pinescript-toolbox): TradingView strategies – customizable, visual, and powerful  
-- 🌿 [**Smart Irrigation System**](https://github.com/yusufemreozden/smart-irrigation-system): Arduino + OLED + soil sensor = auto watering magic  
-- 🔍 [**Weekly Stock Scanner**](https://github.com/yusufemreozden/weekly-stock-screener): MACD, RSI, MDTM combo scanner with ISYatirim data
+- 📊 [**Forecast & Optimize**](https://github.com/yusufemreozden/time-series-forecasting-and-portfolio-optimization): Time series with Prophet + portfolio optimization with CVXPY  
+- 🧪 [**PineScript Toolbox**](https://github.com/yusufemreozden/strategy-toolbox-pine): TradingView strategies – customizable, visual, and powerful  
+- 🌿 [**Smart Irrigation System**](https://github.com/yusufemreozden/smart-plant-irrigation): Arduino + OLED + soil sensor = auto watering magic  
+- 🔍 [**Weekly Stock Scanner**](https://github.com/yusufemreozden/weekly-stock-screener): A scanner using multiple technical analysis indicators with ISYatirim data
 
 ---
 
