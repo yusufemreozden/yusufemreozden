@@ -17,9 +17,9 @@
 
 ### 🧭 Who Am I?
 
-- 🎓 Business Administration student @ Istanbul University (English)
-- 💹 Passionate about financial markets, quant trading & Python automation
-- 📊 Building projects with: Time Series, Technical Indicators, Portfolio Optimization
+- 🎓 Business Administration student @ **Istanbul University (English)**
+- 💹 Passionate about **financial markets, quant trading & Python automation**
+- 📊 Building projects with: **Time Series**, **Technical Indicators**, **Portfolio Optimization**
 - 🎯 Goal: Become a world-class **data-driven business analyst** blending tech & finance
 
 ---
