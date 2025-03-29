@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusufemreozden&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yusufemreozden&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
