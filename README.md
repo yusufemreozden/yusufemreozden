@@ -53,22 +53,21 @@
 
 ### 🧠 Projects That Matter
 
-- 📊 **Forecast & Optimize:** Time series with Prophet + portfolio optimization with CVXPY  
-- 🧪 **PineScript Toolbox:** Technical strategies for TradingView – customizable, visual, and powerful  
-- 🌿 **IoT Smart Irrigation:** Arduino + OLED display + soil sensor = auto watering magic  
-- 🔍 **Weekly Stock Scanner:** MACD, RSI, MDTM combo scanner using Python & weekly ISYatirim data  
+- 📊 [**Forecast & Optimize**](https://github.com/yusufemreozden/forecast-optimize): Time series with Prophet + portfolio optimization with CVXPY  
+- 🧪 [**PineScript Toolbox**](https://github.com/yusufemreozden/pinescript-toolbox): TradingView strategies – customizable, visual, and powerful  
+- 🌿 [**Smart Irrigation System**](https://github.com/yusufemreozden/smart-irrigation-system): Arduino + OLED + soil sensor = auto watering magic  
+- 🔍 [**Weekly Stock Scanner**](https://github.com/yusufemreozden/weekly-stock-screener): MACD, RSI, MDTM combo scanner with ISYatirim data
 
 ---
 
 ### 🚀 2025 Goals
 
-- ✅ Master SQL & Power BI  
-- ✅ Launch my YouTube channel on data & finance  
+- ✅ Master **MS Excel**, **SQL** & **Power BI**  
 - ✅ Publish a personal quant dashboard  
-- ✅ Get an internship in a data/finance role  
+- ✅ Get an internship in a **data/finance** role  
 - ✅ Build a public dataset or API for Turkish markets
 
 ---
 
-> 💬 _"Discipline is the bridge between goals and results."_  
-> – Yusuf Emre Özden
+> 💬 _"In God we trust. All others must bring data."_  
+> — W. Edwards Deming
