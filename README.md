@@ -12,10 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=yusufemreozden&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yusufemreozden&color=blue&style=flat" alt="Profile views" />
+</p>
 
 ---
 
