@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yusuf Emre Özden 👋</h1>
+<h1 align="center">Hi, I'm Yusuf Emre OZDEN 👋</h1>
 <h3 align="center">🚀 Data-Driven Business Analyst | 🧠 Financial Algorithms Enthusiast | 🐍 Python Developer</h3>
 
 <p align="center">
