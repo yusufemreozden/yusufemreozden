@@ -68,7 +68,7 @@
 - ✅ Master **MS Excel**, **SQL** & **Power BI**  
 - ✅ Publish a personal quant dashboard  
 - ✅ Get an internship in a **data/finance** role  
-- ✅ Build a public dataset or API for Turkish markets
+- ✅ Build an original public dataset or API for Turkish capital markets
 
 ---
 
