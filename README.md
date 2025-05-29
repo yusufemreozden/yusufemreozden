@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yusuf Emre OZDEN 👋</h1>
-<h3 align="center">🚀 Data-Driven Strategy Development | 🧠 Financial Algorithms Enthusiast | 🐍 Python Developer</h3>
+<h3 align="center">🚀 Data-Driven Strategy Development | 🧠 Enthusiast in Data & Finance | 🐍 Python Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yusufemreozden" target="_blank">
